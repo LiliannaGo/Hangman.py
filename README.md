@@ -1,9 +1,9 @@
 ---
 # Hangman.py
 ## Story
-**Implement the popular Hangman game. Add a full fledged game flow with a main menu and optionally some cool graphics in the console! Some online examples:**
-[example no 1](https://www.gamestolearnenglish.com/hangman/)
-[example no 2](https://www.coolmathgames.com/0-hangman)
+#**Implement the popular Hangman game. Add a full fledged game flow with a main menu and optionally some cool graphics in the console! Some online examples:**
+# [example no 1](https://www.gamestolearnenglish.com/hangman/)
+# [example no 2](https://www.coolmathgames.com/0-hangman)
 
 ---
 ## Tasks
